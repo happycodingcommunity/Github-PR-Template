@@ -1,2 +1,2 @@
 # Github-PR-Template
-This is another test
+This is another test.
