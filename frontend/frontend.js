@@ -1,2 +1,2 @@
 console.log("frontend file");
-console.log(`Let's have some fun!`);
+console.log(`Let's see what other branches look like`);
